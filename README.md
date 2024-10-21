@@ -10,8 +10,8 @@ This project is a Voice-Activated Personal Assistant that responds to voice comm
 - Built with Python, it uses speech recognition and text-to-speech to interact with users hands-free.
 
 ## Key Technologies:
-Python: Core language
-pyttsx3: Text-to-speech
-SpeechRecognition: Voice recognition
-Wikipedia API: Fetch summaries
-OpenWeatherMap API: Weather updates
+- Python: Core language
+- pyttsx3: Text-to-speech
+- SpeechRecognition: Voice recognition
+- Wikipedia API: Fetch summaries
+- OpenWeatherMap API: Weather updates
