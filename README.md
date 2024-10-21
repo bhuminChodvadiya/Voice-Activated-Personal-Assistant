@@ -4,8 +4,8 @@ This project is a Voice-Activated Personal Assistant that responds to voice comm
 
 - Searching Wikipedia
 - Opening websites (e.g., YouTube, Google)
-Launching desktop apps (e.g., Notepad, Paint)
-Fetching real-time weather updates using OpenWeatherMap API
+- Launching desktop apps (e.g., Notepad, Paint)
+- Fetching real-time weather updates using OpenWeatherMap API
 Announcing the current time
 Built with Python, it uses speech recognition and text-to-speech to interact with users hands-free.
 
