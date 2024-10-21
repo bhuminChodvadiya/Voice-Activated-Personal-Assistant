@@ -1,8 +1,9 @@
-🎙️ Voice-Activated Personal Assistant
+##🎙️ Voice-Activated Personal Assistant
+
 This project is a Voice-Activated Personal Assistant that responds to voice commands to perform various tasks such as:
 
-Searching Wikipedia
-Opening websites (e.g., YouTube, Google)
+- Searching Wikipedia
+- Opening websites (e.g., YouTube, Google)
 Launching desktop apps (e.g., Notepad, Paint)
 Fetching real-time weather updates using OpenWeatherMap API
 Announcing the current time
